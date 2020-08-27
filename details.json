@@ -1,0 +1,74 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "sushma",
+      "address": "24-7,4th street,andheri,mumbai",
+      "contact": 8754937676,
+      "salary": 30000,
+      "designation": "Analyst"
+    },
+    {
+      "id": 2,
+      "name": "maya",
+      "address": "1-7,sector-8,airoli,mumbai",
+      "contact": 9080692718,
+      "salary": 60000,
+      "designation": "Sr.Analyst"
+    },
+    {
+      "id": 3,
+      "name": "Anjali",
+      "address": "24-136,sakinaka,andheri,mumbai",
+      "contact": 8172960809,
+      "salary": 100000,
+      "designation": "Manager"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Oneplus7t",
+      "cost": 37999,
+      "category": "Electronics",
+      "poster": "https://pocketnow.com/wp-content/uploads/2018/11/oneplus-6t-thunder-purple-official-1000x563.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Note8",
+      "cost": 80000,
+      "category": "Electronics",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/81C3NI23ywL._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sparx Shoes",
+      "cost": 2499,
+      "category": "Fashion",
+      "poster": "https://n3.sdlcdn.com/imgs/a/7/m/Sparx-Black-Casual-Shoes-SDL497134330-2-afd19.jpg"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Sushma Jogi",
+      "address": "24-136,sakinaka,andheri,mumbai",
+      "contact": 8172960809,
+      "bill": 2000
+    },
+    {
+      "id": 2,
+      "name": "Mahesh Babu",
+      "address": "b-602,elina,sakinaka,andheri,mumbai",
+      "contact": 7676394578,
+      "bill": 1500
+    },
+    {
+      "id": 3,
+      "name": "sam",
+      "address": "1-2,chin street,china",
+      "contact": "+21476789",
+      "bill": 3000
+    }
+  ]
+}
